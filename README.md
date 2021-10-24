@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Luke</h1>
-<h3 align="center">A passionate software developer from the United Kingdom</h3>
+<h1>Hi 👋, I'm Luke</h1>
+<h3>A passionate software developer from the United Kingdom</h3>
 
 <p align="left">
   <a href="https://twitter.com/lukeliasi" target="blank">
