@@ -1,10 +1,10 @@
-# Luke Liasi
 Senior Software Developer based in the UK with over 10 years of experience building software.
 
-👉 [lukeliasi.com](https://lukeliasi.com)
-
-## Connect with me
 <p align="left">
+  <a href="https://lukeliasi.com" target="blank">
+    lukeliasi.com
+  </a>
+  &nbsp;
   <a href="https://twitter.com/lukeliasi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lukeliasi" height="25" width="25" />
   </a>
@@ -14,8 +14,8 @@ Senior Software Developer based in the UK with over 10 years of experience build
   </a>
 </p>
 
-## Skills
-  <div align="left" style="margin-bottom: 15px;">
+Skills:
+<div align="left" style="margin-bottom: 15px;">
   <img src="https://lukeliasi.com/images/dev-logos/javascript.svg" alt="JavaScript" title="JavaScript" width="40px" height="40px">
   <img src="https://lukeliasi.com/images/dev-logos/typescript.svg" alt="TypeScript" title="TypeScript" width="40px" height="40px">
   <img src="https://lukeliasi.com/images/dev-logos/react.svg" alt="React" title="React" width="40px" height="40px">
