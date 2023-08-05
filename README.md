@@ -1,4 +1,4 @@
-Senior Software Developer based in the UK with over 10 years of experience building software.
+Senior Software Developer based in the UK with over 10 years of experience in software.
 
 <p align="left">
   <a href="https://lukeliasi.com" target="blank">
