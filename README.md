@@ -1,9 +1,12 @@
 Hi, I'm Luke 👋
-I'm a Senior Software Engineer based in the UK with over a decade of experience building software. I specialise in frontend development, working mainly with **JavaScript**, **TypeScript**, **React**, and **Node**.
 
-While my main focus is on frontend work, I have experience with backend development and enjoy contributing to full-stack projects.
+I'm a software engineer with experience in both frontend and backend development, working with **JavaScript**, **TypeScript**, **React**, and **Node**.
 
-When I’m not coding, you’ll probably find me swimming, running, skiing, or enjoying some time gaming.
+📍 Based in the UK
 
-[<img alt="X Logo" src="https://lukeliasi.com/images/x-logo.svg">](https://x.com/lukeliasi)
-[<img alt="LinkedIn Logo" src="https://lukeliasi.com/images/linkedin-logo.svg">](https://www.linkedin.com/in/lukeliasi/)
+💻 Always exploring new tech, tackling challenging problems, and building things that work.
+
+Links:
+- https://lukeliasi.com
+- https://x.com/lukeliasi
+- https://www.linkedin.com/in/lukeliasi
