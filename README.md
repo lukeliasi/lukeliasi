@@ -1,12 +1,3 @@
-Hi, I'm Luke 👋
+Hi there 👋
 
-I'm a software engineer with experience in both frontend and backend development, working with **JavaScript**, **TypeScript**, **React**, and **Node**.
-
-📍 Based in the UK
-
-💻 Always exploring new tech, tackling challenging problems, and building things that work.
-
-Links:
-- https://lukeliasi.com
-- https://x.com/lukeliasi
-- https://www.linkedin.com/in/lukeliasi
+I'm Luke, a Senior Software Engineer based in the UK with over a decade of experience building reliable and scalable software. I specialise in full-stack development with JavaScript, TypeScript, React, and Node. Feel free to explore, or head over to [lukeliasi.com](https://lukeliasi.com) to see what I've been working on.
